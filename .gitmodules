@@ -1,0 +1,3 @@
+[submodule "librand"]
+	path = librand
+	url = git@github.com:hgn/librand.git
